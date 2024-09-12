@@ -10,3 +10,4 @@
 - **Backend**: Django | Laravel | MySQL databases
 - **Other tools**: Git
 
+📫You can reach me on **Linkedin** [@pjovan6](https://www.linkedin.com/in/pjovan6)
